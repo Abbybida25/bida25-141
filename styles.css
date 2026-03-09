@@ -1,0 +1,28 @@
+/* African Traditions - Custom Styles */
+
+body {
+    background-color: #FAF3E0;
+    color: #3B2A1A;
+    font-family: Georgia, serif;
+}
+
+h2, h3 {
+    color: #5C3D2E;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: auto;
+}
+
+img {
+    max-width: 100%;
+}
